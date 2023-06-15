@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IsabelPinan
+- 👀 I’m interested in creating videogames and experiences. From texturing and making shaders, to coding! I love to learn and I'm always looking new ways to improve.
+- 🌱 I’m currently learning more thoroughly to make shaders and improve my rigging.
+- 📫 You can reach me through my LinkedIn @IsabelPinan!
